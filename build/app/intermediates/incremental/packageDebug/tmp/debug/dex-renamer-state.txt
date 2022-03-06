@@ -1,0 +1,4 @@
+#Sun Jan 23 10:39:58 MSK 2022
+base.0=C\:\\Users\\User\\Desktop\\flutter\\100days\\app2_flowers\\app2_flowers\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
